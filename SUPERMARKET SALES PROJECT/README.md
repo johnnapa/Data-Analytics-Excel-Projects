@@ -1,4 +1,4 @@
-## 1. Supermarket Sales Dashboard
+## Supermarket Sales Dashboard
 
 **Overview:**  
 Sample Dashboard presentation of a supermarket sales report for three (3) city branches and six (6) product collections.  
