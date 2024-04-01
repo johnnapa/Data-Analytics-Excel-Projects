@@ -7,4 +7,5 @@ Projects includes:
 - Data Cleaning
 - Pivot Tables
 - Dashboarding and Visualization
+- VBA automation and coding
 - Basic Data Analysis
